@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01复杂度/01复杂度.iml" filepath="$PROJECT_DIR$/01复杂度/01复杂度.iml" />
       <module fileurl="file://$PROJECT_DIR$/02动态数组/02动态数组.iml" filepath="$PROJECT_DIR$/02动态数组/02动态数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03链表/03链表.iml" filepath="$PROJECT_DIR$/03链表/03链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-algorithm.iml" filepath="$PROJECT_DIR$/java-algorithm.iml" />
     </modules>
   </component>
